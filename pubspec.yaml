@@ -70,6 +70,14 @@ flutter:
     - img/pers.png
     - img/contact.png
     - img/Portfolio.png
+    - img/discuss.png
+    - img/home.png
+    - img/P1.png
+    - img/P2.png
+    - img/P3.png
+    - img/P4.png
+    - img/talk.png
+    - img/testimonials.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

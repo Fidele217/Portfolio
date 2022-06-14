@@ -121,7 +121,7 @@ class _skillsState extends State<skills> {
                           ],
                         ),
                       ),
-                      const SizedBox(height:80,),
+                      const SizedBox(height:30,),
                       Center(
                         child: Text("Mes compétences",
                           style: GoogleFonts.reemKufi(
@@ -135,7 +135,7 @@ class _skillsState extends State<skills> {
                       Padding(
                         padding: const EdgeInsets.only(left: 80.0,right:80.0),
                         child: Container(
-                          transform: Matrix4.translationValues(0.0, 70.0, 0.0),
+                          transform: Matrix4.translationValues(0.0, 15.0, 0.0),
                           child: Row(
                             mainAxisAlignment: MainAxisAlignment.spaceBetween,
                             children: [
